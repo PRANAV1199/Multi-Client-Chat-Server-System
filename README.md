@@ -1,10 +1,10 @@
-Author : Pranav Sonare
-To Run the program use the following command :
+#Author : Pranav Sonare
+#To Run the program use the following command :
 - For server : gcc server.c -o filename, for client : gcc client.c -o
 /filename
 - ./filename portno
 - At client side commands are given using the same syntax as
-specified in the Assignment pdf, in the commands client_id
+specified , in the commands client_id
 specify client unique ID and not the socket ID of the client.
 # Macros Used :
 - max_clients : defining the number of max_clients that can connect to
