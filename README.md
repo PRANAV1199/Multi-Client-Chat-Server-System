@@ -1,4 +1,4 @@
-#Author : Pranav Sonare
+**#Author : Pranav Sonare**
 #To Run the program use the following command :
 - For server : gcc server.c -o filename, for client : gcc client.c -o
 /filename
