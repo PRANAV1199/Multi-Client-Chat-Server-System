@@ -1,6 +1,6 @@
 # Author : Pranav Sonare
 # To Run the program use the following command :
-- For server : gcc server.c -o filename, for client : gcc client.c -o
+- For server : gcc Server.c -o filename, for client : gcc Client.c -o
 /filename
 - ./filename portno
 - At client side commands are given using the same syntax as
